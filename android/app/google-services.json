@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "586003398341",
+    "firebase_url": "https://routify-app-20f5c-default-rtdb.firebaseio.com",
+    "project_id": "routify-app-20f5c",
+    "storage_bucket": "routify-app-20f5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586003398341:android:2158c31ff35beac80a7aac",
+        "android_client_info": {
+          "package_name": "com.example.routify_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9deiHQGGLuG-18NQOk40ukJNbrZNvwm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
